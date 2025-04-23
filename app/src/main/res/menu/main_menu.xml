@@ -1,0 +1,80 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Profile section -->
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/account_icon"
+            android:title="Profile"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/my_account"
+            android:icon="@drawable/account_icon"
+            android:title="My Account"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home_icon"
+            android:title="Home"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/dashboard_icon"
+            android:title="Dashboard"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/favorites"
+            android:icon="@drawable/favorite_icon"
+            android:title="Favorites"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/notifications"
+            android:icon="@drawable/notification_icon"
+            android:title="Notifications"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/messages"
+            android:icon="@drawable/message_icon"
+            android:title="Messages"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/share_icon"
+            android:title="Share App"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/setting_logo"
+            android:title="Settings"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/help_support"
+            android:icon="@drawable/help_icon"
+            android:title="Help &amp; Support"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/info_icon"
+            android:title="About"
+            app:showAsAction="never"
+            android:orderInCategory="100" />
+
+        <item
+            android:id="@+id/action_theme"
+            android:icon="@drawable/ic_dark_mode"
+            android:title="Change Theme"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout_icon"
+            android:title="Logout"
+            app:showAsAction="never" />
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022123707635",
+    "project_id": "gail-b1017",
+    "storage_bucket": "gail-b1017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022123707635:android:bbcb37168f2df5fe113b86",
+        "android_client_info": {
+          "package_name": "com.example.gail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU0Y4bW-RBUxxp7BomT9aMU7W46JOk4to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

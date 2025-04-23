@@ -1,0 +1,17 @@
+{
+  "name": "functions",
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {
+    "lint": "echo \"No linting configured\"",
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.0"
+  }
+}

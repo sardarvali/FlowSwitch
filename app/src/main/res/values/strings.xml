@@ -1,0 +1,63 @@
+<resources>
+
+    <string-array name="dropview">
+        <item>Select Category</item>
+        <item>Bio Gas</item>
+        <item>Natural Gas</item>
+        <item>CNG</item>
+        <item>Petroleum</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dropview">arrow</string>
+
+
+    <string name="app_name">GAIL</string>
+    <string name="reports_title">Reports</string>
+    <string name="tab_consumption">Consumption</string>
+    <string name="tab_distribution">Distribution</string>
+    <string name="tab_financial">Financial</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_export">Export Report</string>
+    <string name="period_label">Period: %1$s to %2$s</string>
+    <string name="summary_title">Summary</string>
+    <string name="total_consumption">Total Consumption:</string>
+    <string name="daily_average">Daily Average:</string>
+    <string name="change_from_previous">Change from Previous:</string>
+    <string name="export_report_title">Export Report</string>
+    <string name="report_pdf">PDF Report</string>
+    <string name="report_excel">Excel Spreadsheet</string>
+    <string name="report_csv">CSV Data</string>
+    <string name="report_share">Share Summary</string>
+    <string name="report_generating">%1$s being generated</string>
+    <string name="date_range_picker_title">Select Date Range</string>
+    <string name="consumption_chart_label">Gas Consumption (MMSCM)</string>
+    <string name="distribution_chart_title">Distribution by Sector</string>
+    <string name="revenue_chart_label">Revenue (Cr)</string>
+    <string name="expenses_chart_label">Expenses (Cr)</string>
+    <string name="username_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="invalid_email">Please enter a valid email address</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="login">Login</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="google_login_failed">Google login failed</string>
+    <string name="facebook_login_failed">Facebook login failed</string>
+    <string name="apple_login_failed">Apple login failed</string>
+    <string name="google_auth_failed">Google authentication failed</string>
+    <string name="valid_email_required">Please enter a valid email to reset password</string>
+    <string name="password_reset_email_sent">Password reset email sent</string>
+    <string name="password_reset_failed">Failed to send password reset email</string>
+
+    <!-- Registration Activity -->
+    <string name="name_required">Full name is required</string>
+    <string name="email_required">Email is required</string>
+    <string name="confirm_password_required">Please confirm your password</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="register">Register</string>
+    <string name="registering">Registering…</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="profile_update_failed">Failed to update profile</string>
+</resources>
